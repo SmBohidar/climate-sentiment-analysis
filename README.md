@@ -77,7 +77,3 @@ It is recommended to use a virtual environment. Install required packages with:
 ```bash
 pip install -r requirements.txt
 ```
-
-## Authors & Credits
-
-Developed by climate data analysts and AI developers to support transparency in climate science communication. Uses open-source NASA data, Streamlit, and natural language processing.
